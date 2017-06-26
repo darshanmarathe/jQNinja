@@ -1,0 +1,15 @@
+﻿CDN Link 
+http://www.asp.net/ajaxlibrary/cdn.ashx#jQuery_Releases_on_the_CDN_0
+
+CDN vsdoc js Version
+vsdoc version helps to set up the visual studio intellisence so using the vsdoc version 
+rember its a fatter version of js as its include the comments 
+
+
+New Syntax hilighter is choosen from 
+http://www.steamdev.com/snippet/
+
+
+jQuery 1.4 CDN Link 
+http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.4-vsdoc.js
+JQuery 1.4 was upgraded till 1.4.4 so using the jQuery 1.4.4 js

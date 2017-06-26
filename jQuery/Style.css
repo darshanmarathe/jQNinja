@@ -1,0 +1,9 @@
+﻿.Codebox {
+    background-color: azure;
+    color: gray;
+    font-family: Arial;
+    box-shadow:2px;
+    min-height:100px;
+    min-width:30%;
+    max-width:98%;
+}
